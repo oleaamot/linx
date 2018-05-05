@@ -23,6 +23,7 @@
 %{
 %}
 %%
+https:\/\/[^ \n<>\"\'\)]*        printf("%s\n",yytext);
 http:\/\/[^ \n<>\"\'\)]*        printf("%s\n",yytext);
 ftp:\/\/[^ \n<>\"\'\)]*        printf("%s\n",yytext);
 .|\n                       ;
