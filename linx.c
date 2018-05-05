@@ -451,9 +451,9 @@ char *yytext;
 #line 1 "linx.l"
 /* $Id$
 
-   linx.l -- Flexible link parser (version 0.1.1)
+   linx.l -- Flexible link parser (version 0.3.0)
 
-   Copyright (C) 2003-2014  Ole Aamot <oka@oka.no>
+   Copyright (C) 2018  Ole Aamot <ole@aamotsoftware.com>
  
    This program is free software; you can redistribute it and/or modify
    it under the terms of the GNU General Public License as published by

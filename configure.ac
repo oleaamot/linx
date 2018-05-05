@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ(2.59)
-AC_INIT(linx, 0.2.1, ole@aamotsoftware.com)
+AC_INIT(linx, 0.3.0, ole@aamotsoftware.com)
 AM_INIT_AUTOMAKE
 
 AC_CONFIG_SRCDIR([linx.l])
